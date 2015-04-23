@@ -21,12 +21,6 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$colorstart}', endColorstr='#{$colorend}',GradientType=0);
 }
 
-/* Variables should be defined outside of this file     */
-/* doing it here just to keep things together in github */
-$baseLineHeight:  20px;
-$baseBorderRadius: 4px;
-
-
 .slider {
   display: inline-block;
   vertical-align: middle;
